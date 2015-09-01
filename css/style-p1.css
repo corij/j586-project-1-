@@ -1,0 +1,64 @@
+
+
+.container{
+    width: 1000px;
+}
+.border{
+    border: solid 1px black;
+}
+
+.nav{
+    padding-left:2cm;
+}
+
+
+.light-blue-bar{
+  background-color: #1e88dc;
+    height: 2em;
+}
+
+#mini{
+    
+}
+.dark-blue-bar{
+    background-color: #184a73;
+    height: 8em;
+}
+
+.white-bar{
+    height: 1em;
+}
+
+
+.green-dashboard{
+    background-color: #33cc66;
+    height: 4em;
+    marign-left: 10px;
+    margin-right: 10px;
+}
+.announcements{
+    height:4em; 
+}
+.announcement-orange{
+    color: #fe7f13;
+    padding-top: .5cm;
+    font-size: 8pt;
+}
+
+.latin{
+    padding-top: .5cm;
+    font-size: 8pt;
+}
+.task-analytics{
+    height: 64em;
+}
+
+.pictures{
+    height: 12em;
+ }
+
+.footer{
+    height: 2em;
+}
+
+    
